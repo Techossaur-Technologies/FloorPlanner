@@ -1,0 +1,31 @@
+2.0.5
+(Bugs)
+-Project => Assignmnet
+-addproject.php(Design:box, button alignment, Pop Up Color 7 Redirect, Select Company => None)
+-editproject.php(Design: button alignment)
+-Database(Table: Menu(Project->Assignment List))
+-project.php(View & Edit button for client)
+-signup.php(password min length = 6, Logo.png, popup text change, signin button)
+-login.php(signup button, logo.png)
+-activation.php(design same as login.php)
+-change_password.php(design change)
+etc
+
+2.0.4
+(Bugs)
+-thumbnail image fixing
+-update on edit project
+-Activation.php
+-$baseurl
+(Extra Features)
+-Email Attachment
+-Email Template(Sub: Project Id, Address Name ;Body: Company, Attachment)
+-Email Sending(Raw Blueprint, final Blueprint, Comment for admin & client users)
+
+
+2.0.3
+-View project
+-Timeline Features
+-Upload Blueprints, Final Blueprints
+-Upload Company LOGO
+-Comment Section
